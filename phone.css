@@ -1,0 +1,11 @@
+input {
+  width: 277px;
+  font-size: 36px;
+  padding: 10px 0px;
+}
+
+button {
+  width: 62px;
+  height: 56px;
+  font-size: 20px;
+}
